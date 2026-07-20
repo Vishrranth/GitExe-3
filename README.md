@@ -1,1 +1,3 @@
-This is for lab exercise 3
+This is for lab exercise 7 
+DevOps is the best!!!
+
