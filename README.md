@@ -1,3 +1,3 @@
-This is for lab exercise 7 
-DevOps is the best!!!
-
+This is for lab exercise 3
+Heelo guys
+lab is over!!!
